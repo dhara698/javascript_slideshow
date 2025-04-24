@@ -1,0 +1,25 @@
+.slide {
+    display: none;
+    text-align: center;
+  }
+  
+  .slide img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #slideshow {
+    width: 80%;
+    margin: auto;
+  }
+  
+  .nav {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+  }  
